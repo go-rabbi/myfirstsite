@@ -1,2 +1,2 @@
 # myfirstsite
-This the first site developed I've developed with django
+This the first site I've developed with django
